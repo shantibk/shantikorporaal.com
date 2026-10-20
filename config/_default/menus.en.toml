@@ -7,12 +7,33 @@
   weight = 10
 
 [[main]]
-  name = "Resume"
-  pageRef = "resume"
+  name = "Series"
   weight = 20
 
+[[main]]
+  name = "TROY"
+  parent = "Series"
+  pageRef = "series/troy"
+  weight = 21
+
+# Add the Recruiterbot series here once its first part is published:
+# [[main]]
+#   name = "Recruiterbot"
+#   parent = "Series"
+#   pageRef = "series/recruiterbot"
+#   weight = 22
+
+[[main]]
+  name = "Portfolio"
+  pageRef = "portfolio"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 40
+
 # -- Footer Menu --
-# Shown at the bottom of every page, before the copyright notice.
 
 [[footer]]
   name = "Articles"
@@ -20,6 +41,11 @@
   weight = 10
 
 [[footer]]
-  name = "Resume"
-  pageRef = "resume"
+  name = "Portfolio"
+  pageRef = "portfolio"
   weight = 20
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 30

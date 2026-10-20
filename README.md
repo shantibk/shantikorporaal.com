@@ -1,6 +1,6 @@
 # shantikorporaal.com
 
-Personal site of Shanti Korporaal: articles and a living resume.
+Personal site of Shanti Korporaal: articles, series and a portfolio.
 
 Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/) theme (Princess colour scheme), published to GitHub Pages by GitHub Actions on every push to `main`.
 
@@ -19,7 +19,9 @@ Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/)
 | Menus | `config/_default/menus.en.toml` |
 | Homepage text | `content/_index.md` |
 | Articles | `content/posts/<slug>/index.md` |
-| Resume | `content/resume.md` |
+| Portfolio | `content/portfolio.md` |
+| About | `content/about.md` |
+| Series landing titles | `content/series/<name>/_index.md` |
 | Site-wide images (profile photo, background) | `assets/img/` |
 | Theme (git submodule, don't edit) | `themes/blowfish/` |
 | Deploy workflow | `.github/workflows/hugo.yml` |
@@ -37,7 +39,8 @@ Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/)
    ---
    ```
 3. Add a cover image named `feature.jpg` (or `.png`) to the same folder. It becomes the header image, the card thumbnail and the social-share preview. Other images in the folder can be used in the text with `![Alt text](image.jpg "Caption")`.
-4. Commit and push to `main`. The site rebuilds in a minute or two.
+4. For a series part, add `series: ["Recruiterbot"]` and `series_order: 1` to the front matter (and the series to the Series menu in `menus.en.toml` the first time).
+5. Commit and push to `main`. The site rebuilds in a minute or two.
 
 Keep images web-sized (ideally under ~500 KB each).
 

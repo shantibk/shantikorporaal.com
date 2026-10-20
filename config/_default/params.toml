@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -71,7 +71,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "posts/" # relative, so it works with or without a subpath
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background

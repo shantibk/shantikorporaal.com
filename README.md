@@ -21,6 +21,7 @@ Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/)
 | Articles | `content/posts/<slug>/index.md` |
 | Portfolio | `content/portfolio.md` |
 | About | `content/about.md` |
+| Contact (LinkedIn button; add a form here later) | `content/contact.md` |
 | Series landing titles | `content/series/<name>/_index.md` |
 | Site-wide images (profile photo, background) | `assets/img/` |
 | Theme (git submodule, don't edit) | `themes/blowfish/` |

@@ -17,6 +17,9 @@ title = "Shanti Korporaal"
 [params.author]
   name = "Shanti Korporaal"
   headline = "Site under construction — articles, series and a portfolio coming soon."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/shantibkorporaal/" },
+  ]
 #   name = "Your name here"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"

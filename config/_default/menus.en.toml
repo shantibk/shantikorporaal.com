@@ -1,0 +1,25 @@
+# -- Main Menu --
+# Shown in the header. Ordered by weight (lowest first).
+
+[[main]]
+  name = "Articles"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 20
+
+# -- Footer Menu --
+# Shown at the bottom of every page, before the copyright notice.
+
+[[footer]]
+  name = "Articles"
+  pageRef = "posts"
+  weight = 10
+
+[[footer]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 20

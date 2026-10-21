@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://shantibk.github.io/shantikorporaal.com/"
+baseURL = "https://shantikorporaal.com/"
 defaultContentLanguage = "en"
 
 # Interpret post dates as Sydney time (otherwise a post dated "today" can be

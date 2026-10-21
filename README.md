@@ -55,4 +55,4 @@ Then check `HUGO_VERSION` in `.github/workflows/hugo.yml` is within the range in
 
 ## Custom domain
 
-The domain `shantikorporaal.com` is registered with Cloudflare. To connect it, add the GitHub Pages DNS records in Cloudflare, then set the custom domain under the repo's Settings → Pages, and update `baseURL` in `config/_default/hugo.toml`.
+The domain `shantikorporaal.com` is registered with Cloudflare (auto-renew on). DNS: four A records for `@` (185.199.108–111.153) and a `www` CNAME to `shantibk.github.io`, all **DNS only** (grey cloud) so GitHub can issue the HTTPS certificate. The custom domain is set under the repo's Settings → Pages.

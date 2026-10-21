@@ -41,7 +41,7 @@ The PM shouldn't necessarily be the person disappearing deepest into every techn
 
 **The project manager's job isn't to become every SME. It's to get the best out of the collective expertise already in the project.**
 
-<!-- INLINE IMAGE: original image to be supplied -->
+![Diagram of a network: a source feeds major nodes, which feed local nodes, which connect to end points such as homes and businesses](network-diagram.jpg)
 
 This diagram is deliberately simplistic, but at a high enough level it can describe an extraordinary number of systems: plumbing, electricity, telecommunications, logistics, information flows and even some organisational structures.
 

@@ -43,7 +43,8 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        # Site address comes from baseURL in config/_default/hugo.toml
+        run: hugo --gc --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

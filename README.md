@@ -43,6 +43,12 @@ Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/)
 4. For a series part, add `series: ["Recruiterbot"]` and `series_order: 1` to the front matter (and the series to the Series menu in `menus.en.toml` the first time).
 5. Commit and push to `main`. The site rebuilds in a minute or two.
 
+### Scheduling an article
+
+Give it a future date and time in Sydney time, e.g. `date: 2026-10-27T10:30:00+11:00` (`+10:00` outside daylight saving). Future-dated posts are skipped by the build, and the site rebuilds hourly, so the post appears within the hour after that time. Scheduled posts can be read in this public repo before they go live; Shanti is fine with that.
+
+GitHub pauses scheduled workflows in a repo that has had no commits for 60 days. If that happens, re-enable "Deploy site" under the repo's Actions tab.
+
 Keep images web-sized (ideally under ~500 KB each).
 
 ## Updating the theme

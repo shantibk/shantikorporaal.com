@@ -5,6 +5,11 @@ name: Deploy site
 on:
   push:
     branches: ["main"]
+  # Hourly rebuild so scheduled (future-dated) posts appear on their own.
+  # Hugo skips posts dated in the future, so each one goes live within
+  # the hour after its date and time.
+  schedule:
+    - cron: "7 * * * *"
   workflow_dispatch:
 
 permissions:

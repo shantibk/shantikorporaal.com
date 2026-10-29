@@ -1,9 +1,11 @@
 ---
-title: "Recruiter Bot, Part 4: Apparently, I Have to Tell AI Not to Lie About Me"
+title: "Recruiter Bot: Part 4"
 date: 2026-11-07T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 4
 ---
+### Apparently, I Have to Tell AI Not to Lie About Me
+
 **Captain's Log. Stardate 2026.294.**
 
 The Recruiter Bot has reached the Human Review Queue.

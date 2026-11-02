@@ -16,12 +16,11 @@
   pageRef = "series/troy"
   weight = 21
 
-# Add the Recruiterbot series here once its first part is published:
-# [[main]]
-#   name = "Recruiterbot"
-#   parent = "Series"
-#   pageRef = "series/recruiterbot"
-#   weight = 22
+[[main]]
+  name = "Recruiter Bot"
+  parent = "Series"
+  pageRef = "series/recruiter-bot"
+  weight = 22
 
 [[main]]
   name = "Portfolio"

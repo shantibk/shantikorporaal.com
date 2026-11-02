@@ -40,7 +40,7 @@ Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/)
    ---
    ```
 3. Add a cover image named `feature.jpg` (or `.png`) to the same folder. It becomes the header image, the card thumbnail and the social-share preview. Other images in the folder can be used in the text with `![Alt text](image.jpg "Caption")`.
-4. For a series part, add `series: ["Recruiterbot"]` and `series_order: 1` to the front matter (and the series to the Series menu in `menus.en.toml` the first time).
+4. For a series part, add `series: ["Recruiter Bot"]` and `series_order: 1` to the front matter (and the series to the Series menu in `menus.en.toml` the first time).
 5. Commit and push to `main`. The site rebuilds in a minute or two.
 
 ### Scheduling an article

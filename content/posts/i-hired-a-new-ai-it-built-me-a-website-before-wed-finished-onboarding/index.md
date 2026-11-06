@@ -1,6 +1,7 @@
 ---
 title: "I Hired a New AI. It Built Me a Website Before We'd Finished Onboarding."
 date: 2026-11-04T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/i-hired-new-ai-built-me-website-before-wed-finished-shanti-e3yqc/"
 ---
 I've been using ChatGPT for years.
 
@@ -99,3 +100,7 @@ And I'm still not entirely sure what an artifact is.
 Even if the property is a domain name.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/i-hired-new-ai-built-me-website-before-wed-finished-shanti-e3yqc/).*

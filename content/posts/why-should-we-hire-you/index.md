@@ -1,6 +1,7 @@
 ---
 title: "Why should we hire you?"
 date: 2026-11-05T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/why-should-we-hire-you-shanti-benjamin-korporaal-yqqec/"
 ---
 I've run businesses, managed projects, solved complicated problems, and spoken publicly.
 
@@ -83,3 +84,7 @@ And after all that effort to explain why I love helping other people have their 
 **I finally had one of my own.**
 
 💡 ❤️
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/why-should-we-hire-you-shanti-benjamin-korporaal-yqqec/).*

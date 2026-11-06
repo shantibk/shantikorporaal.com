@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 12"
 date: 2026-11-06T10:30:00+11:00
 series: ["TROY"]
 series_order: 12
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-12-benjamin-korporaal-polmc/"
 ---
 ### When the Cat's Away, the Mice Will Play
 
@@ -93,3 +94,7 @@ Which leaves me with one question.
 **If everyone knows exactly what you'll do when you get back, is that a sign of good leadership, or have they just learned when to hide the evidence?**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-12-benjamin-korporaal-polmc/).*

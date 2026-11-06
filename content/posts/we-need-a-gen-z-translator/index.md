@@ -10,7 +10,7 @@ Apparently, it was "nifty."
 
 A couple of colleagues had a question.
 
-"WHAT'S NIFTY?"
+**"WHAT'S NIFTY?"**
 
 🤣
 
@@ -22,7 +22,7 @@ Naturally, I did what any responsible professional would do.
 
 I Googled it.
 
-What's the Gen Z equivalent of nifty?
+*What's the Gen Z equivalent of nifty?*
 
 According to Google, the answer was "fire."
 
@@ -30,7 +30,7 @@ Excellent.
 
 I took a screenshot and shared it with the team.
 
-TRANSLATION: MANAGEMENT THINKS THIS CRM FEATURE IS FIRE.
+**TRANSLATION: MANAGEMENT THINKS THIS CRM FEATURE IS FIRE.**
 
 😂
 
@@ -82,6 +82,6 @@ You just need everyone to understand each other.
 
 And occasionally...
 
-YOU NEED TO EXPLAIN TO MANAGEMENT THAT THEIR CRM IS FIRE.
+**YOU NEED TO EXPLAIN TO MANAGEMENT THAT THEIR CRM IS FIRE.**
 
 🤣

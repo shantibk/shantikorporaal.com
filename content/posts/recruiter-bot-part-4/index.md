@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 4"
 date: 2026-11-07T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 4
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-4-apparently-i-have-tell-ai-lie-me-shanti-jbrjc/"
 ---
 ### Apparently, I Have to Tell AI Not to Lie About Me
 
@@ -121,3 +122,7 @@ Preferably with the documentation already completed.
 Because apparently, even I don't know everything that's in there.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-4-apparently-i-have-tell-ai-lie-me-shanti-jbrjc/).*

@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 5"
 date: 2026-11-09T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 5
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-5-shanti-benjamin-korporaal-miaac/"
 ---
 ### Apparently, My AI Employees Have Expense Accounts
 
@@ -143,3 +144,7 @@ But because I wanted to know what the little bugger had been thinking about.
 **TOTAL EXPENDITURE: APPROXIMATELY ONE CENT. EDUCATIONAL VALUE: STILL BEING CALCULATED.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-5-shanti-benjamin-korporaal-miaac/).*

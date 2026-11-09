@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 13"
 date: 2026-11-10T10:30:00+11:00
 series: ["TROY"]
 series_order: 13
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-13-benjamin-korporaal-rcmqf/"
 ---
 ### When Success Becomes Your Biggest Downfall
 
@@ -163,3 +164,7 @@ Because apparently, I have.
 And unlike Patroclus, I haven't even got Apollo to blame.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-13-benjamin-korporaal-rcmqf/).*

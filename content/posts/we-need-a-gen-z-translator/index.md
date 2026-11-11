@@ -1,6 +1,7 @@
 ---
 title: "We Need a Gen Z Translator"
 date: 2026-11-11T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/we-need-gen-z-translator-shanti-benjamin-korporaal-7blzc/"
 ---
 It was Friday afternoon.
 
@@ -85,3 +86,7 @@ And occasionally...
 **YOU NEED TO EXPLAIN TO MANAGEMENT THAT THEIR CRM IS FIRE.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/we-need-gen-z-translator-shanti-benjamin-korporaal-7blzc/).*

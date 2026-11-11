@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 3"
 date: 2026-11-03T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 3
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-3-shanti-benjamin-korporaal-ssrsc/"
 ---
 ### The First Time I Beat the AI
 
@@ -97,3 +98,7 @@ And one very pleased, slightly out-of-practice tech nerd sitting at her computer
 HA! I beat the AI!
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-3-shanti-benjamin-korporaal-ssrsc/).*

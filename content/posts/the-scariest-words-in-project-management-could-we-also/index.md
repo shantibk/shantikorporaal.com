@@ -1,6 +1,7 @@
 ---
 title: "The Scariest Words in Project Management: “Could We Also…”"
 date: 2026-10-31T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/scariest-words-project-management-could-we-also-benjamin-korporaal-3ysec/"
 ---
 There are plenty of frightening things in project management.
 
@@ -93,3 +94,7 @@ Because sometimes the scariest thing in a project isn't a bad idea.
 It's a brilliant idea with terrible timing.
 
 🎃
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/scariest-words-project-management-could-we-also-benjamin-korporaal-3ysec/).*

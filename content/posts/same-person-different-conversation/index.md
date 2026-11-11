@@ -1,6 +1,7 @@
 ---
 title: "Same Person. Different Conversation."
 date: 2026-10-26T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/same-person-different-conversation-shanti-benjamin-korporaal-1jobc/"
 ---
 I've discovered something mildly uncomfortable about myself.
 
@@ -135,3 +136,7 @@ Although I reserve the right to thank ChatGPT for fixing my JSON.
 Old habits.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/same-person-different-conversation-shanti-benjamin-korporaal-1jobc/).*

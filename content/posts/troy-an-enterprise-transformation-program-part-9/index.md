@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 9"
 date: 2026-10-27T10:30:00+11:00
 series: ["TROY"]
 series_order: 9
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-9-benjamin-korporaal-1iunc/"
 ---
 ### Part 9: The Warning Wasn't About the Bird
 
@@ -109,3 +110,7 @@ It's not a particularly effective way to encourage future risk reporting.
 Even if Zeus has personally endorsed the project.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-9-benjamin-korporaal-1iunc/).*

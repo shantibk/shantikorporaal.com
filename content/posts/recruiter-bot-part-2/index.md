@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 2"
 date: 2026-10-30T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 2
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-2-shanti-benjamin-korporaal-wdr2c/"
 ---
 ### How to Stay in a Project Nobody Asked You to Start
 
@@ -105,3 +106,7 @@ Although if anyone ever suggests I spend another entire week discussing my caree
 Or a new computer.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-2-shanti-benjamin-korporaal-wdr2c/).*

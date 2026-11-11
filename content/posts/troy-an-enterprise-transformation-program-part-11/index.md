@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 11"
 date: 2026-11-02T10:30:00+11:00
 series: ["TROY"]
 series_order: 11
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-11-benjamin-korporaal-e6yjc/"
 ---
 ### Part 11: Three Leaders. One Crisis. Three Different Plans.
 
@@ -139,3 +140,7 @@ Without anyone threatening to murder the person offering advice.
 Which, after the last few chapters, feels like genuine progress for the Greek and Trojan leadership development programme.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-11-benjamin-korporaal-e6yjc/).*

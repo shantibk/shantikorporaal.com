@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 1"
 date: 2026-10-29T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 1
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-1-shanti-benjamin-korporaal-gklgc/"
 ---
 ### The Curious Tech Nerd Who Fell Behind
 
@@ -145,3 +146,7 @@ Which means I'm writing two series simultaneously.
 Because if there's one thing I've learned about myself, it's that when something interests me, I apparently have absolutely no intention of doing it in moderation.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-1-shanti-benjamin-korporaal-gklgc/).*

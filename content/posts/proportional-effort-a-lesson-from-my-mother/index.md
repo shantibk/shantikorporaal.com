@@ -1,6 +1,7 @@
 ---
 title: "Proportional Effort: A Lesson From My Mother"
 date: 2026-10-24T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/proportional-effort-lesson-from-my-mother-shanti-benjamin-korporaal-koanc/"
 ---
 My mother has a rather practical approach to life.
 
@@ -101,3 +102,7 @@ Allocate resources proportionate to risk, complexity and stakeholder requirement
 Mum calls it not wasting your bloody time.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/proportional-effort-lesson-from-my-mother-shanti-benjamin-korporaal-koanc/).*

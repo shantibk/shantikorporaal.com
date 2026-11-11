@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 10"
 date: 2026-10-28T10:30:00+11:00
 series: ["TROY"]
 series_order: 10
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-10-benjamin-korporaal-85k6c/"
 ---
 ### Part 10: The Battlefield Doesn't Stop Because You're Busy
 
@@ -129,3 +130,7 @@ Especially if it's Polydamas.
 The man has already demonstrated an extraordinary commitment to submitting feedback despite management's rather aggressive complaints procedure.
 
 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-10-benjamin-korporaal-85k6c/).*

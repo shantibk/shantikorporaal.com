@@ -1,6 +1,7 @@
 ---
 title: "Why Not Give It a Go?"
 date: 2026-11-12T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/why-give-go-shanti-benjamin-korporaal-hd2hc/"
 ---
 I once decided I should learn to solder.
 
@@ -91,3 +92,7 @@ I've got enough experience now to trust that I'll give it a proper go, learn som
 So these days, when something interesting catches my attention, my first thought is usually:
 
 **"Oh, this could be fun. Let's see what happens!"** 😁
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/why-give-go-shanti-benjamin-korporaal-hd2hc/).*

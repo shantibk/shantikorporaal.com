@@ -1,6 +1,7 @@
 ---
 title: "Oh Baby, Give Me Your SME! 😍"
 date: 2026-11-13T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/oh-baby-give-me-your-sme-shanti-benjamin-korporaal-d769c/"
 ---
 I have a thing for subject matter experts.
 
@@ -139,3 +140,7 @@ And eventually he said something along the lines of:
 And I laughed.
 
 **"Yeah, I'm weird. I'm okay with it."** 😂
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/oh-baby-give-me-your-sme-shanti-benjamin-korporaal-d769c/).*

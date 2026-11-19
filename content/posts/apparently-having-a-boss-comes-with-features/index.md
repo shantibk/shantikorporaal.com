@@ -1,6 +1,7 @@
 ---
 title: "Apparently, Having a Boss Comes With Features 🤣"
 date: 2026-11-14T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/apparently-having-boss-comes-features-shanti-benjamin-korporaal-bayyc/"
 ---
 Apparently, when you have a boss, you're allowed to ask them for help.
 
@@ -141,3 +142,7 @@ Honestly, after years of running businesses, it's quite a novelty.
 I really should have read the user manual.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/apparently-having-boss-comes-features-shanti-benjamin-korporaal-bayyc/).*

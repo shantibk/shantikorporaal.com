@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 6"
 date: 2026-11-18T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 6
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-6-shanti-benjamin-korporaal-me8ec/"
 ---
 ### Apparently, Doing It the Hard Way Wasn't a Waste of Time
 
@@ -133,3 +134,7 @@ Reason: Budget.
 Approved by: Me.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-6-shanti-benjamin-korporaal-me8ec/).*

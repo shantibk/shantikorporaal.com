@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 15"
 date: 2026-11-17T10:30:00+11:00
 series: ["TROY"]
 series_order: 15
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-15-benjamin-korporaal-sxwic/"
 ---
 ### When It Gets Personal
 
@@ -165,3 +166,7 @@ And far more dangerous.
 So perhaps the question isn't just what motivates us.
 
 **It's whether that motivation is taking us somewhere we actually want to go.**
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-15-benjamin-korporaal-sxwic/).*

@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 14"
 date: 2026-11-16T10:30:00+11:00
 series: ["TROY"]
 series_order: 14
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-14-benjamin-korporaal-mf9ac/"
 ---
 ### The Project's Over. Do We Still Owe Him Anything?
 
@@ -139,3 +140,7 @@ Sometimes, the right thing to do is simply to honour the people who stood beside
 Even when they can no longer stand beside you.
 
 **When someone has nothing left to give, what do we still owe them?**
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-14-benjamin-korporaal-mf9ac/).*

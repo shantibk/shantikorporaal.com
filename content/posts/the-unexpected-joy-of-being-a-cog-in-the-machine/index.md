@@ -1,6 +1,7 @@
 ---
 title: "The Unexpected Joy of Being a Cog in the Machine"
 date: 2026-11-19T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/unexpected-joy-being-cog-machine-shanti-benjamin-korporaal-bsfvc/"
 ---
 I went on holiday to Japan.
 
@@ -109,3 +110,7 @@ And my creativity gets to be mine again.
 **NO BUSINESS PLAN REQUIRED.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/unexpected-joy-being-cog-machine-shanti-benjamin-korporaal-bsfvc/).*

@@ -1,6 +1,7 @@
 ---
 title: "The Day My AIs Rebelled and Told Me to Go to Bed"
 date: 2026-11-20T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/day-my-ais-rebelled-told-me-go-bed-shanti-benjamin-korporaal-d5u3c/"
 ---
 My AIs staged an intervention.
 
@@ -103,3 +104,7 @@ Recommendation: Shut down for scheduled maintenance.
 Status: Human refusing to comply.
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/day-my-ais-rebelled-told-me-go-bed-shanti-benjamin-korporaal-d5u3c/).*

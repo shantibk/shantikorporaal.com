@@ -1,6 +1,7 @@
 ---
 title: "I Got a New Job. So Naturally, I Built Myself a School."
 date: 2026-11-21T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/i-got-new-job-so-naturally-built-myself-school-benjamin-korporaal-uibxc/"
 ---
 I'm starting a new job!
 
@@ -107,3 +108,7 @@ And a teacher who doesn't mind seventeen follow-up questions.
 **WHICH IS PROBABLY JUST AS WELL.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/i-got-new-job-so-naturally-built-myself-school-benjamin-korporaal-uibxc/).*

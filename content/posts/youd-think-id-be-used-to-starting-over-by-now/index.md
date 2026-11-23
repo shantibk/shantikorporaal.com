@@ -1,6 +1,7 @@
 ---
 title: "You'd Think I'd Be Used to Starting Over by Now."
 date: 2026-11-23T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/youd-think-id-used-starting-over-now-shanti-benjamin-korporaal-lugmc/"
 ---
 Let me take you back to 19-year-old me.
 
@@ -123,3 +124,7 @@ She'd probably be delighted to know I haven't lost it.
 **HERE WE GO AGAIN!**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/youd-think-id-used-starting-over-now-shanti-benjamin-korporaal-lugmc/).*

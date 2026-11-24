@@ -1,6 +1,7 @@
 ---
 title: "TROY: An Enterprise Transformation Program: Part 16"
 date: 2026-11-24T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-16-benjamin-korporaal-prwhc/"
 series: ["TROY"]
 series_order: 16
 ---
@@ -165,3 +166,7 @@ Because sometimes the most important thing a project needs isn't another heroic 
 **IT'S SOMEONE WILLING TO SAY, "MATE, GO HOME AND GET SOME SLEEP."**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-16-benjamin-korporaal-prwhc/).*

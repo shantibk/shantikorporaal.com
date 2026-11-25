@@ -3,6 +3,7 @@ title: "TROY: An Enterprise Transformation Program: Part 17"
 date: 2026-11-25T10:30:00+11:00
 series: ["TROY"]
 series_order: 17
+linkedinURL: "https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-17-benjamin-korporaal-qphgc/"
 ---
 ### Mission Accomplished. Wrong Mission.
 
@@ -125,3 +126,7 @@ Just not the objective anyone originally signed up for.
 **AND THE PROJECT SPONSOR WOULD LIKE TO KNOW WHY TROY IS STILL STANDING.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/troy-enterprise-transformation-program-part-17-benjamin-korporaal-qphgc/).*

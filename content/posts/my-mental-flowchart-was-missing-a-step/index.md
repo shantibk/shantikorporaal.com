@@ -1,6 +1,7 @@
 ---
 title: "My Mental Flowchart Was Missing a Step"
 date: 2026-11-26T10:30:00+11:00
+linkedinURL: "https://www.linkedin.com/pulse/my-mental-flowchart-missing-step-shanti-benjamin-korporaal-dqhdc/"
 ---
 Two years into my last job, I had a performance review.
 
@@ -137,3 +138,7 @@ But I'm much better at recognising that I have another option.
 **APPARENTLY, BEING PART OF A TEAM MEANS LETTING THE TEAM BE A PART OF YOUR WORK.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/my-mental-flowchart-missing-step-shanti-benjamin-korporaal-dqhdc/).*

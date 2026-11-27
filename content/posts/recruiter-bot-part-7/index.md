@@ -3,6 +3,7 @@ title: "Recruiter Bot: Part 7"
 date: 2026-11-27T10:30:00+11:00
 series: ["Recruiter Bot"]
 series_order: 7
+linkedinURL: "https://www.linkedin.com/pulse/recruiter-bot-part-7-shanti-benjamin-korporaal-p2koc/"
 ---
 ### Of Course I Needed to Think About It Backwards!
 
@@ -151,3 +152,7 @@ It had exposed a gap in how I was thinking about collecting career evidence in t
 **APPARENTLY, THE SYSTEM CAN'T FIND EXPERIENCE I FORGOT TO TELL IT ABOUT.**
 
 🤣
+
+---
+
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/recruiter-bot-part-7-shanti-benjamin-korporaal-p2koc/).*
